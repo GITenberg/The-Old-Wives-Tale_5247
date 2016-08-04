@@ -1,0 +1,55 @@
+_repo: The-Old-Wives-Tale_5247
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: "The Old Wives' Tale is a novel by Arnold Bennett, first published in\
+  \ 1908. It deals with the lives of two very different sisters, Constance and Sophia\
+  \ Baines, following their stories from their youth, working in their mother's draper's\
+  \ shop, into old age. It is generally regarded as one of Bennett's finest works.\
+  \ It covers a period of about 70 years from roughly 1840 to 1905, and is set in\
+  \ Burslem and Paris.\nBennett was initially inspired to write the book by a chance\
+  \ encounter in a Parisian restaurant. In the introduction to the book, he says\n\
+  \n...an old woman came into the restaurant to\ndine. She was fat, shapeless, ugly,\
+  \ and grotesque. She had a ridiculous voice, and ridiculous gestures. It was easy\
+  \ to see that she lived alone, and that in the long lapse of years she had developed\
+  \ the kind of peculiarity which induces guffaws among the thoughtless.\n\nand\n\n\
+  I reflected, concerning the grotesque diner: \"This woman was once\nyoung, slim,\
+  \ perhaps beautiful; certainly free from these ridiculous mannerisms. Very probably\
+  \ she is unconscious of her singularities. Her case is a tragedy. One ought to be\
+  \ able to make a heartrending novel out of the history of a woman such as she.\"\
+  \ Every stout, ageing woman is not grotesque—far from it!—but there is an extreme\
+  \ pathos in the mere fact that every stout ageing woman was once a young girl with\
+  \ the unique charm of youth in her form and movements and in her mind. And the fact\
+  \ that the change from the young girl to the stout ageing woman is made up of an\
+  \ infinite number of infinitesimal changes, each unperceived by her, only intensifies\
+  \ the pathos.\n\nBennett also found inspiration in Maupassant's novel Une Vie. [1]\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5247'
+  wikidata: Q7754941
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Women -- England -- Fiction'
+- GITenberg
+title: The Old Wives' Tale
+url: http://www.gutenberg.org/ebooks/5247
+wikipedia:
+- https://sh.wikipedia.org/wiki/The_Old_Wives%27_Tale
+- https://en.wikipedia.org/wiki/The_Old_Wives%27_Tale
