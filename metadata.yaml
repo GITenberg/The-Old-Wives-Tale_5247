@@ -1,5 +1,8 @@
 _repo: The-Old-Wives-Tale_5247
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bennett, Arnold
@@ -33,6 +36,8 @@ description: "The Old Wives' Tale is a novel by Arnold Bennett, first published 
   \ infinite number of infinitesimal changes, each unperceived by her, only intensifies\
   \ the pathos.\n\nBennett also found inspiration in Maupassant's novel Une Vie. [1]\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5247#The-Old-Wives-Tale
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
